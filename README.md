@@ -65,10 +65,3 @@ Once the database is set up, you can run the Streamlit application:
 streamlit run main.py
 ```
 
-## Usage
-
-The application provides a web interface to perform content-based image retrieval. You can upload an image, and the application will return similar images from the dataset.
-
-## License
-
-This project is licensed under the MIT License.
